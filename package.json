@@ -1,0 +1,10 @@
+{
+  "name": "Casper",
+  "version": "1.2.6",
+  "devDependencies": {
+    "broccoli": "^0.16.9",
+    "broccoli-babel-transpiler": "^5.5.0",
+    "broccoli-concat": "0.0.13",
+    "broccoli-merge-trees": "^1.0.0"
+  }
+}
